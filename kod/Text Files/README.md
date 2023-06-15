@@ -61,6 +61,6 @@ Then test the git project by doing this command!
 
 Check out in the files for more information!
 
-[About Git]()
+[About Git](github.com/sonictheprogrammer/kod/blob/main/kod/Text Files/aboutgit.md)
 
 [Information]()
