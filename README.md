@@ -60,7 +60,3 @@ Then test the git project by doing this command!
 ## Other Things
 
 Check out in the files for more information!
-
-[About Git](https://github.com/sonictheprogrammer/kod/blob/main/kod/Text Files/aboutgit.md)
-
-[Information](https://github.com/sonictheprogrammer/kod/blob/main/kod/Text Files/info.md)
