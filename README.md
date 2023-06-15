@@ -2,7 +2,7 @@
 **kod** is a **git** project which is used to test if a **git project** works.
 
 ## Tutorial
-This is for **Linux**. No other Operating systems can do this.
+This is for **Linux**, no other operating systems can do this.
 ### Arch based Distributions
 If you don't have git. You can install it by doing this command.
 
