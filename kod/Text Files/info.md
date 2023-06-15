@@ -19,10 +19,10 @@ Then, wait patiently for the updates to download until you can use git.
 
 ## About
 
-Arch uses the pacman manager if you are confused of what you're supposed to do
-while Debian uses the apt manager to do with the target.
+Debian and Arch are linux, but they have different intentions of each other
+which means that they have different things.
 
-If you want to learn, Go to either **Debian** or **Arch** wikis, or the websites
+If you want to learn, Go to either **Debian** or **Arch** wikis, or the **websites**
 
 [Debian Wiki](https://wiki.debian.org)
 
