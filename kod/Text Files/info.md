@@ -22,8 +22,12 @@ Then, wait patiently for the updates to download until you can use git.
 Arch uses the pacman manager if you are confused of what you're supposed to do
 while Debian uses the apt manager to do with the target.
 
-If you want to learn, Go to either **Debian** or **Arch** wikis.
+If you want to learn, Go to either **Debian** or **Arch** wikis, or the websites
 
 [Debian Wiki](https://wiki.debian.org)
 
 [Arch Wiki](https://wiki.archlinux.org)
+
+[Debian](https://debian.org)
+
+[Arch](https://archlinux.org)
