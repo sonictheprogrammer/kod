@@ -20,7 +20,7 @@ Before
 
 After
 
-`user/~:kod`
+`user/~kod:`
 
 Do this command to check if there are files.
 
@@ -47,7 +47,7 @@ Before
 
 After
 
-`user/~:kod`
+`user/~kod:`
 
 Do this command to check if there are files.
 
