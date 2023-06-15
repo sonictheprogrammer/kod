@@ -24,6 +24,6 @@ while Debian uses the apt manager to do with the target.
 
 If you want to learn, Go to either **Debian** or **Arch** wikis.
 
-[Debian Wiki](wiki.debian.org)
+[Debian Wiki](https://wiki.debian.org)
 
-[Arch Wiki](wiki.archlinux.org)
+[Arch Wiki](https://wiki.archlinux.org)
