@@ -57,6 +57,45 @@ Then test the git project by doing this command!
 
 `sudo apt ./shell/git.sh`
 
+### Macintosh
+
+To install, if you don't have git yet, go to this link, and choose what client you'll use.
+
+https://git-scm.com/download/mac
+
+To get the project, clone it.
+
+`git clone https://github.com/sonictheprogrammer/kod`
+
+Then, make it into a CD.
+
+`cd https://github.com/sonictheprogrammer/kod`
+
+To prepare, use this command.
+
+`chmod +x ./mac.sh`
+
+To run, write the file.
+
+`./mac.sh`
+### Windows
+
+To install, if you don't have git yet, go to this link, and choose what type of download you'll use.
+
+https://git-scm.com/download/win
+
+To get the project, clone it.
+
+`git clone https://github.com/sonictheprogrammer/kod`
+
+Then, make it into a CD.
+
+`cd https://github.com/sonictheprogrammer/kod`
+
+Then, use this.
+
+`./win.sh`
+
 ## Other Things
 
 Check out in the files for more information!
