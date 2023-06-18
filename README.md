@@ -69,7 +69,7 @@ To get the project, clone it.
 
 Then, make it into a CD.
 
-`cd https://github.com/sonictheprogrammer/kod`
+`cd kod`
 
 To prepare, use this command.
 
@@ -90,7 +90,7 @@ To get the project, clone it.
 
 Then, make it into a CD.
 
-`cd https://github.com/sonictheprogrammer/kod`
+`cd kod`
 
 Then, use this.
 
