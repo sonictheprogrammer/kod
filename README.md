@@ -28,7 +28,7 @@ Do this command to check if there are files.
 
 Then test the git project by doing this command!
 
-`sudo pacman ./shell/git.sh`
+`sudo pacman ./git.sh`
 
 ### Debian based Distributions
 If you don't have git. You can install it by doing this command.
@@ -55,7 +55,7 @@ Do this command to check if there are files.
 
 Then test the git project by doing this command!
 
-`sudo apt ./shell/git.sh`
+`sudo apt ./git.sh`
 
 ### Macintosh
 
