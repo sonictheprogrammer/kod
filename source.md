@@ -1,5 +1,3 @@
 # Information
 
-This project is **Open Source**, this means you can fork the project and edit it!
-
-Otherwise, enjoy!
+Look for the **LICENSE.md** file, but as always, this project is **Open Source**.
