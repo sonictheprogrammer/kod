@@ -77,6 +77,7 @@ To prepare, use this command.
 To run, write the file.
 
 `./mac.sh`
+
 ### Windows
 
 To install, if you don't have git yet, go to this link, and choose what type of download you'll use.
@@ -94,6 +95,42 @@ Then, make it into a CD.
 Then, use this.
 
 `./win.sh`
+
+## BSD
+
+To install git (if you don't have it yet), install it by using this command.
+
+`pkg install git`
+
+Then, Clone the project.
+
+`git clone https://github.com/sonictheprogrammer/kod`
+
+Make it into a cd.
+
+`cd kod`
+
+Run it by using this command,
+
+`./bsd.sh`
+
+## Red Hat
+
+To install git, go to this link and go to the section "Red Hat Enterprise Linux, Oracle Linux, CentOS, Scientific Linux, et al."
+
+https://git-scm.com/download/linux
+
+Then, Clone the project.
+
+`git clone https://github.com/sonictheprogrammer/kod`
+
+Make it into a cd.
+
+`cd kod`
+
+Run it by using this command,
+
+`./rpm.sh`
 
 ## Other Things
 
