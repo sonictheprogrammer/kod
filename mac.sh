@@ -1,1 +1,1 @@
-echo "this is the mac version of git.sh, to exit, click the "X" button and open it again, otherwise, enjoy!"
+echo "Hello! This is a Mac version of the Program, To exit, Press the "X" button on the top left and open it again,"
