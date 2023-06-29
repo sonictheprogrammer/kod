@@ -1,1 +1,3 @@
-echo "this is the windows version of git.sh, to exit, quit command prompt, otherwise, enjoy!"
+echo "Hello! This is a Test, to stop this program, stop Command Prompt,"
+wait
+echo "Otherwise, have fun!"
