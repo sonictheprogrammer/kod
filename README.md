@@ -114,21 +114,21 @@ Run it by using this command,
 
 `./bsd.sh`
 
-## Red Hat
+## Fedora
 
-To install git, go to this link and go to the section "Red Hat Enterprise Linux, Oracle Linux, CentOS, Scientific Linux, et al."
+To install git, just do this command.
 
-https://git-scm.com/download/linux
+`dnf install git`
 
-Then, Clone the project.
+Then, clone the project.
 
 `git clone https://github.com/sonictheprogrammer/kod`
 
-Make it into a cd.
+CD.
 
 `cd kod`
 
-Run it by using this command,
+then run the script, 
 
 `./rpm.sh`
 
