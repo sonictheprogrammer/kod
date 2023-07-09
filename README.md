@@ -180,4 +180,6 @@ then run the script,
 
 Asciinema: www.asciinema.org/~kodterminal
 
+Documentation: https://github.com/sonictheprogrammer/kod/wiki/Kod-Documentation
+
 Check out in the files for more information!
