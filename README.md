@@ -121,7 +121,7 @@ Then, use this.
 
 `./win.sh`
 
-## BSD
+### BSD
 
 Update the system first,
 
@@ -150,7 +150,7 @@ Run it by using this command,
 `./bsd.sh`
 
 
-## Fedora
+### Fedora
 
 Update the system first,
 
