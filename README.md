@@ -72,7 +72,7 @@ Then, make it into a CD.
 
 To prepare, use this command.
 
-`chmod +x ./mac.sh`
+`chmod +x mac.sh`
 
 To run, write the file.
 
