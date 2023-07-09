@@ -134,4 +134,6 @@ then run the script,
 
 ## Other Things
 
+Asciinema: www.asciinema.org/~kodterminal
+
 Check out in the files for more information!
