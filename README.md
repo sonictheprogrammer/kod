@@ -15,7 +15,7 @@ To get the project, clone the project.
 
 `git clone https://github.com/sonictheprogrammer/kod`
 
-Then, make it into a cd.
+Then, get into the files.
 
 Before
 
@@ -51,7 +51,7 @@ To get the project, clone the project.
 
 `git clone https://github.com/sonictheprogrammer/kod`
 
-Then, make it into a cd.
+Then, get into the files.
 
 Before
 
