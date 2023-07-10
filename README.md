@@ -40,6 +40,10 @@ To prepare, use this command.
 
 `chmod +x git.sh`
 
+Also, to make sure that run.sh can work, use this command.
+
+`chmod +x run.sh`
+
 Then test the git project by doing this command!
 
 `./git.sh`
@@ -76,6 +80,14 @@ To prepare, use this command.
 
 `chmod +x git.sh`
 
+Also, to make sure that run.sh can work, use this command.
+
+`chmod +x run.sh`
+
+Also, to make sure that run.sh can work, use this command.
+
+`chmod +x run.sh`
+
 Then test the git project by doing this command!
 
 `./git.sh`
@@ -100,6 +112,10 @@ To prepare, use this command.
 
 `chmod +x mac.sh`
 
+Also, to make sure that run.sh can work, use this command.
+
+`chmod +x run.sh`
+
 To run, write the file.
 
 `./mac.sh`
@@ -123,6 +139,10 @@ Then, get into the files.
 To prepare, use this command.
 
 `chmod +x win.sh`
+
+Also, to make sure that run.sh can work, use this command.
+
+`chmod +x run.sh`
 
 Then, use this.
 
@@ -152,6 +172,10 @@ To prepare, use this command.
 
 `chmod +x bsd.sh`
 
+Also, to make sure that run.sh can work, use this command.
+
+`chmod +x run.sh`
+
 Run it by using this command,
 
 `./bsd.sh`
@@ -178,6 +202,10 @@ Then, get into the files.
 To prepare, use this command.
 
 `chmod +x rpm.sh`
+
+Also, to make sure that run.sh can work, use this command.
+
+`chmod +x run.sh`
 
 then run the script, 
 
