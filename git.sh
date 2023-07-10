@@ -3,3 +3,4 @@ wait
 echo "If you want to quit the operations of this program, Press Ctrl+C (^C)"
 wait
 echo "Otherwise, Enjoy!"
+./run.sh
