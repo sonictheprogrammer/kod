@@ -1,4 +1,10 @@
 # Kod
+**Welcome!**
+
+![scriptwelcome](https://github.com/sonictheprogrammer/kod/assets/92324146/4fdee8bf-0b70-4cad-96e1-7604b42c3389)
+
+
+
 **kod** is a **git** project which is used to test if a **git project** works.
 
 ## Tutorial
