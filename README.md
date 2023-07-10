@@ -85,7 +85,7 @@ To get the project, clone it.
 
 `git clone https://github.com/sonictheprogrammer/kod`
 
-Then, make it into a CD.
+Then, get into the files.
 
 `cd kod`
 
@@ -109,7 +109,7 @@ To get the project, clone it.
 
 `git clone https://github.com/sonictheprogrammer/kod`
 
-Then, make it into a CD.
+Then, get into the files.
 
 `cd kod`
 
@@ -137,7 +137,7 @@ Then, Clone the project.
 
 `git clone https://github.com/sonictheprogrammer/kod`
 
-Make it into a cd.
+Then, get into the files.
 
 `cd kod`
 
@@ -164,7 +164,7 @@ Then, clone the project.
 
 `git clone https://github.com/sonictheprogrammer/kod`
 
-CD.
+Then, get into the files.
 
 `cd kod`
 
