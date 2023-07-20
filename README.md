@@ -84,9 +84,6 @@ Also, to make sure that run.sh can work, use this command.
 
 `chmod +x run.sh`
 
-Also, to make sure that run.sh can work, use this command.
-
-`chmod +x run.sh`
 
 Then test the git project by doing this command!
 
