@@ -251,4 +251,7 @@ Asciinema: www.asciinema.org/~kodterminal
 
 Documentation: https://github.com/sonictheprogrammer/kod/wiki/Kod-Documentation
 
+Unofficial Counterpart: https://github.com/sonictheprogrammer/kod-unofficial
+
 Check out in the files for more information!
+
