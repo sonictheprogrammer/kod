@@ -10,7 +10,7 @@
 
 ## Tutorial
 
-## Gentoo Based Distributions
+### Gentoo Based Distributions
 
 Before you can do anything else, Update your system.
 
