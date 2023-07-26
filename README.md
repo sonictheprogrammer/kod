@@ -9,6 +9,43 @@
 **kod's** name **originated** from the **translation** of the letter **Code**, Which is **Код**.
 
 ## Tutorial
+
+## Gentoo Based Distributions
+
+Before you can do anything else, Update your system.
+
+`emerge --ask --verbose --update --deep @world`
+
+If you don't have Git, install it by using emerge.
+
+`emerge --ask git`
+
+After that, clone the project,
+
+`git clone https://github.com/sonictheprogrammer/kod`
+
+Now, go into the files.
+
+`cd kod`
+
+Check the files!
+
+`ls`
+
+Now, unlock the files,
+
+`chmod +x git.sh`
+
+`chmod +x run.sh`
+
+Now, Run it!
+
+`./git.sh`
+
+run.sh not running automatically? just run it manually!
+
+`./run.sh`
+
 ### Arch based Distributions
 Update the system first,
 
