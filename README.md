@@ -182,7 +182,7 @@ Then, use this.
 
 `./win.sh`
 
-### BSD
+### FreeBSD
 
 Update the system first,
 
