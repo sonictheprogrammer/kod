@@ -273,7 +273,7 @@ Now, run it.
 
 ### openSUSE
 
-To install git use zypper.
+To install git, use zypper.
 
 `zypper install git`
 
