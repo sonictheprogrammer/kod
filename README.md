@@ -245,6 +245,58 @@ then run the script,
 
 `./rpm.sh`
 
+### Red Hat
+
+To install git, go to this link and go to the section "Red Hat Enterprise Linux, Oracle Linux, CentOS, Scientific Linux, et al."
+
+`https://git-scm.com/download/linux`
+
+Then, Clone the project.
+
+`git clone https://github.com/sonictheprogrammer/kod`
+
+Enter the files.
+
+`cd kod`
+
+Now, allow acess to rpm.sh.
+
+`chmod rpm.sh`
+
+if run.sh isn't working automatically. unlock it too.
+
+`chmod run.sh`
+
+Now, run it.
+
+`./rpm.sh`
+
+### openSUSE
+
+To install git use zypper.
+
+`zypper install git`
+
+Then, Clone the project.
+
+`git clone https://github.com/sonictheprogrammer/kodl`
+
+Enter the files.
+
+`cd kod`
+
+Unlock it. 
+
+`chmod git.sh`
+
+if run.sh isn't working automatically. unlock it too.
+
+`chmod run.sh``
+
+Run it by using this command,
+
+`./git.sh`
+
 ## Other Things
 
 Asciinema: www.asciinema.org/~kodterminal
