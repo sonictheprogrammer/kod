@@ -261,11 +261,11 @@ Enter the files.
 
 Now, allow acess to rpm.sh.
 
-`chmod rpm.sh`
+`chmod +x rpm.sh`
 
 if run.sh isn't working automatically. unlock it too.
 
-`chmod run.sh`
+`chmod +x run.sh`
 
 Now, run it.
 
@@ -287,11 +287,11 @@ Enter the files.
 
 Unlock it. 
 
-`chmod git.sh`
+`chmod +x git.sh`
 
 if run.sh isn't working automatically. unlock it too.
 
-`chmod run.sh``
+`chmod +x run.sh``
 
 Run it by using this command,
 
