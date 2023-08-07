@@ -297,6 +297,32 @@ Run it by using this command,
 
 `./git.sh`
 
+### NixOS
+
+To install git use the nix package manager.
+
+`nix-env -i git`
+
+Then, Clone the project.
+
+`git clone https://github.com/sonictheprogrammer/kodl`
+
+Get into the Files.
+
+`cd kod`
+
+Unlock it. 
+
+`chmod +x git.sh`
+
+Unlock this file too (just incase)
+
+`chmod +x run.sh`
+
+Run it by using this command,
+
+`./git.sh`
+
 ## Other Things
 
 Asciinema: www.asciinema.org/~kodterminal
