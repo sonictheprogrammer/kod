@@ -80,7 +80,7 @@ sudo pacman -S git
 To get the project, clone the project.
 
 ```sh
-sh git clone https://github.com/sonictheprogrammer/kod
+git clone https://github.com/sonictheprogrammer/kod
 ```
 
 Then, get into the files.
