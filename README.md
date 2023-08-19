@@ -464,30 +464,18 @@ Run it by using this command,
 ### NetBSD
 #### ⚠ Note: Git does not support NetBSD. So consider using Curl, or Wget.
 
-Go to https://github.com/sonictheprogrammer/kod-raw.
-
-Then, Clone the project.
-
-```sh
-git clone https://github.com/sonictheprogrammer/kod-unofficial
-```
-
-Make it into a cd.
-
-```sh
-cd kod-unofficial
-```
+Go to https://github.com/sonictheprogrammer/kod-raw. and go to tutorial.md
 
 Unlock it. 
 
 ```sh
-chmod +x shell.sh
+chmod +x git.sh
 ```
 
 Run it by using this command,
 
 ```sh
-./shell.sh
+./git.sh
 ```
 ### OpenBSD
 
@@ -506,41 +494,33 @@ git clone https://github.com/sonictheprogrammer/kod-unofficial
 Make it into a cd.
 
 ```sh
-cd kod-unofficial
+cd kod
 ```
 
 Unlock it. 
 
 ```sh
-chmod +x shell.sh
+chmod +x git.sh
 ```
 
 Run it by using this command,
 
 ```sh
-./shell.sh
+./git.sh
 ```
 
 ### Void Linux
 #### ⚠ Note: Git does not support Void Linux. So consider using Curl, or Wget.
 
-Go to https://github.com/sonictheprogrammer/kod-raw.
-
-Then, Clone the project.
-
-`git clone https://github.com/sonictheprogrammer/kod-unofficial`
-
-Make it into a cd.
-
-`cd kod-unofficial`
+Go to https://github.com/sonictheprogrammer/kod-raw. and go to tutorial.md
 
 Unlock it. 
 
-`chmod +x shell.sh`
+`chmod +x git.sh`
 
 Run it by using this command,
 
-`./shell.sh`
+`./git.sh`
 
 
 ## Other Things
