@@ -395,11 +395,15 @@ zypper install git
 
 Then, Clone the project.
 
-```git clone https://github.com/sonictheprogrammer/kod```
+```sh
+git clone https://github.com/sonictheprogrammer/kod
+```
 
 Enter the files.
 
-```cd kod```
+```sh
+cd kod
+```
 
 Unlock it. 
 
@@ -456,6 +460,88 @@ Run it by using this command,
 ```sh
 ./git.sh
 ```
+
+### NetBSD
+#### ⚠ Note: Git does not support NetBSD. So consider using Curl, or Wget.
+
+Go to https://github.com/sonictheprogrammer/kod-raw.
+
+Then, Clone the project.
+
+```sh
+git clone https://github.com/sonictheprogrammer/kod-unofficial
+```
+
+Make it into a cd.
+
+```sh
+cd kod-unofficial
+```
+
+Unlock it. 
+
+```sh
+chmod +x shell.sh
+```
+
+Run it by using this command,
+
+```sh
+./shell.sh
+```
+### OpenBSD
+
+To install git use pkg.
+
+```sh
+pkg_add git
+```
+
+Then, Clone the project.
+
+```sh
+git clone https://github.com/sonictheprogrammer/kod-unofficial
+```
+
+Make it into a cd.
+
+```sh
+cd kod-unofficial
+```
+
+Unlock it. 
+
+```sh
+chmod +x shell.sh
+```
+
+Run it by using this command,
+
+```sh
+./shell.sh
+```
+
+### Void Linux
+#### ⚠ Note: Git does not support Void Linux. So consider using Curl, or Wget.
+
+Go to https://github.com/sonictheprogrammer/kod-raw.
+
+Then, Clone the project.
+
+`git clone https://github.com/sonictheprogrammer/kod-unofficial`
+
+Make it into a cd.
+
+`cd kod-unofficial`
+
+Unlock it. 
+
+`chmod +x shell.sh`
+
+Run it by using this command,
+
+`./shell.sh`
+
 
 ## Other Things
 
