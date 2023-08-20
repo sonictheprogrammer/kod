@@ -516,11 +516,15 @@ Go to https://github.com/sonictheprogrammer/kod-raw. and go to tutorial.md
 
 Unlock it. 
 
-`chmod +x git.sh`
+```sh
+chmod +x git.sh
+```
 
 Run it by using this command,
 
-`./git.sh`
+```sh
+./git.sh
+```
 
 
 ## Other Things
