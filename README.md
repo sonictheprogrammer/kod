@@ -526,6 +526,12 @@ Run it by using this command,
 ./git.sh
 ```
 
+## Have Issues?
+![issue](https://github.com/sonictheprogrammer/kod/assets/92324146/d5115127-bb53-4006-8973-771af0aba268)
+
+Please Report Them into the **"Issues Tab"**! It will help fix **bugs** and **errors** that are found in the project. 
+
+It can also help the **development** of **Kod**.
 
 ## Other Things
 
