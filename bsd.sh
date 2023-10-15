@@ -1,2 +1,2 @@
-echo "Hello! This is a test, if you want to exit the program, Press Crtl+C (^C)"
+echo "Hello! This is the BSD Version of Kod, if you want to exit the program, Press Crtl+C (^C)"
 ./run.sh
