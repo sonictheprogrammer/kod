@@ -14,7 +14,9 @@ echo "Done!"
 wait
 wait
 wait
+echo
 echo "Welcome to Kod! "
+echo "If you are seeing this message, that means you have installed Kod correctly!
 echo "To check files, type in ls, as shown below,"
 ls
 echo "To edit, use nano, or your desired editor."
